@@ -1,0 +1,52 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\yarn\bin\yarn.js sync
+
+PATH: 
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Users\ileti\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Git\cmd;C:\Users\ileti\AppData\Local\Microsoft\WindowsApps;C:\Users\ileti\AppData\Roaming\npm;C:\Users\ileti\AppData\Local\GitHubDesktop\bin;C:\Users\ileti\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\ileti\AppData\Local\atom\bin;C:\Program Files\Java\jdk-14.0.1\bin;;C:\Users\ileti\AppData\Local\Programs\Fiddler;C:\Program Files\heroku\bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  12.13.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\Development\assistivecards-api\package.json: Unexpected token } in JSON at position 490
+      at JSON.parse (<anonymous>)
+      at C:\Users\ileti\AppData\Roaming\nvm\v12.13.0\node_modules\yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (C:\Users\ileti\AppData\Roaming\nvm\v12.13.0\node_modules\yarn\lib\cli.js:310:30)
+      at C:\Users\ileti\AppData\Roaming\nvm\v12.13.0\node_modules\yarn\lib\cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "assistivecards-api",
+    "version": "1.0.0",
+    "description": "This is a documentation for the live assistivecards.com's API.",
+    "main": "index.js",
+    "scripts": {
+      "credential:win": "set GOOGLE_APPLICATION_CREDENTIALS=leeloo-aac-e5fa09a67061.json",
+      "credential:mac": "export GOOGLE_APPLICATION_CREDENTIALS='leeloo-aac-e5fa09a67061.json'",
+      "sync": "aws s3 sync data s3://api.assistivecards.com --delete",
+      "pull": "aws s3 sync s3://api.assistivecards.com data",
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/assistivecards/assistivecards-api.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/assistivecards/assistivecards-api/issues"
+    },
+    "homepage": "https://github.com/assistivecards/assistivecards-api#readme"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

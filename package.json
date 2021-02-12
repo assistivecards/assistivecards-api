@@ -6,8 +6,9 @@
   "scripts": {
     "credential:win": "set GOOGLE_APPLICATION_CREDENTIALS=leeloo-aac-e5fa09a67061.json",
     "credential:mac": "export GOOGLE_APPLICATION_CREDENTIALS='leeloo-aac-e5fa09a67061.json'",
-    "sync": "aws s3 sync data s3://api.assistivecards.com --delete",
-    "pull": "aws s3 sync s3://api.assistivecards.com data",
+    "sync:cards": "aws s3 sync data/cards s3://api.assistivecards.com/cards",
+    "sync:packs": "aws s3 sync data/packs s3://api.assistivecards.com/packs",
+    "pull": "aws s3 sync s3://api.assistivecards.com data"
   },
   "repository": {
     "type": "git",
