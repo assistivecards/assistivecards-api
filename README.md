@@ -163,3 +163,16 @@ Example;
 https://api.assistivecards.com/cards/avatarHD/girl12.png
 
 > Note that avatar types has boy 33, girl 27 and misc 29 assets at max.
+
+## Force Downloading the Assets
+
+There might be applications where you need to force download an asset from the cdn;
+
+1) Serve a spesific pack's image (256x256).
+
+```
+GET https://download.assistivecards.com/cards/icon/[pack_slug].[png|svg|json]
+Hotlink protection: none
+```
+
+Using the same tailing url and "download" subdomain, the file will be served with a disposition header.
