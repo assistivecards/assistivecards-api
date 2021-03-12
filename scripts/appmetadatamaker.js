@@ -25,7 +25,7 @@ let meta = async () => {
       }
       apps[j].tagline = tagline;
     }
-
+ 
     console.log(app.description);
     if(typeof app.description == "string"){
       let description = {};
