@@ -1,6 +1,6 @@
 # assistivecards rest api
 
-This is a documentation for the live assistivecards.com's rest API and asset endpoints. (Stored statically in aws s3)
+This is a documentation for the live assistivecards.com's rest API and asset endpoints. (Stored in aws s3, in a static way, served by cloudflare cdn)
 
 ## Packs
 Get a list of all the available packs and their attributions.
@@ -176,3 +176,23 @@ Hotlink protection: none
 ```
 
 Using the same tailing url and "download" subdomain, the file will be served with a disposition header.
+
+## Apps
+
+Return all the apps published by AssistiveCards and metadata about them.
+
+```
+GET https://api.assistivecards.com/apps/metadata.json
+Hotlink protection: none
+```
+
+Will return an array of objects that contain metadata about all apps.
+
+## App Icons
+
+Serve icon of an app by using it's slug.
+
+```
+GET https://api.assistivecards.com/apps/icon/[app_slug]@3x.png
+Hotlink protection: none
+```
