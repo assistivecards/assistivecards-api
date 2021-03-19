@@ -4,8 +4,12 @@
   "description": "This is a documentation for the live assistivecards.com's API.",
   "main": "index.js",
   "scripts": {
-    "appmeta:win": "set GOOGLE_APPLICATION_CREDENTIALS=scripts/translation-token.json&& node scripts/appmetadatamaker.js",
-    "appmeta:mac": "export GOOGLE_APPLICATION_CREDENTIALS=scripts/translation-token.json&& node scripts/appmetadatamaker.js",
+    "app:win": "set GOOGLE_APPLICATION_CREDENTIALS=scripts/translation-token.json&& node scripts/appmaker.js",
+    "app:mac": "export GOOGLE_APPLICATION_CREDENTIALS=scripts/translation-token.json&& node scripts/appmaker.js",
+    "category:win": "set GOOGLE_APPLICATION_CREDENTIALS=scripts/translation-token.json&& node scripts/categorymaker.js",
+    "category:mac": "export GOOGLE_APPLICATION_CREDENTIALS=scripts/translation-token.json&& node scripts/categorymaker.js",
+    "pack:win": "set GOOGLE_APPLICATION_CREDENTIALS=scripts/translation-token.json&& node scripts/packmaker.js",
+    "pack:mac": "export GOOGLE_APPLICATION_CREDENTIALS=scripts/translation-token.json&& node scripts/packmaker.js",
     "sync:cards": "aws s3 sync data/cards s3://api.assistivecards.com/cards",
     "sync:apps": "aws s3 sync data/apps s3://api.assistivecards.com/apps",
     "sync:packs": "aws s3 sync data/packs s3://api.assistivecards.com/packs",
@@ -23,6 +27,7 @@
   "homepage": "https://github.com/assistivecards/assistivecards-api#readme",
   "dependencies": {
     "@google-cloud/translate": "^6.1.0",
-    "emoji-strip": "^1.0.1"
+    "emoji-strip": "^1.0.1",
+    "node-fetch": "^2.6.1"
   }
 }
