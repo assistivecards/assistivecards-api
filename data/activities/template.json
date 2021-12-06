@@ -150,8 +150,6 @@
       "title": "Swimming",
       "search": "swimming,water sport,take a dip"
     },
-
-    },
     {
       "slug": "drinking-juice",
       "title": "Drinking Juice",
@@ -221,6 +219,6 @@
       "slug": "going-to-the-park",
       "title": "Going to the Park",
       "search": "going to the park,playground,play area"
-    },
+    }
   ]
 }
