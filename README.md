@@ -53,6 +53,24 @@ Example card object;
 ```
 The type property for the phrase object signifies that phrase's context.
 
+## Activities
+Get all the activities with language.
+
+```
+GET https://api.assistivecards.com/activities/[lang_code]/metadata.json
+Cross-origin: All
+```
+
+Example activity object;
+```JS
+{
+  "slug": "walking",
+  "title": "Walking",
+  "search": "walking,running"
+}
+```
+The search property defines activities' context.
+
 
 ## Languages
 Get a list of all the languages that assistivecards json data is available and their details.
@@ -163,6 +181,18 @@ Example;
 https://api.assistivecards.com/cards/avatarHD/girl12.png
 
 > Note that avatar types has boy 33, girl 27 and misc 29 assets at max.
+
+## Activity Images
+
+1) Serve a spesific activiy's image (1200x800).
+
+```
+GET https://api.assistivecards.com/activities/assets/[activity_slug].png
+Hotlink protection: none
+```
+
+Example;
+https://api.assistivecards.com/activities/assets/brushing-teeth.png
 
 ## Force Downloading the Assets
 
