@@ -1,19 +1,9 @@
 {
   "activities": [
     {
-      "slug": "walking",
-      "title": "Walking",
-      "search": "walking,running"
-    },
-    {
       "slug": "cooking-food",
       "title": "Cooking food",
       "search": "cooking,preparing"
-    },
-    {
-      "slug": "using-phone",
-      "title": "Using Phone",
-      "search": "using phone,smart phone,calling"
     },
     {
       "slug": "practicing-speaking",
@@ -31,9 +21,9 @@
       "search": "sleeping,bed time,relax,dreaming,catnapping,napping,resting"
     },
     {
-      "slug": "relax",
-      "title": "relax",
-      "search": "realx,napping,calming,lie down"
+      "slug": "relaxing",
+      "title": "Relaxing",
+      "search": "relax,napping,calming,lie down"
     },
     {
       "slug": "doing-homework",
@@ -219,6 +209,11 @@
       "slug": "going-to-the-park",
       "title": "Going to the Park",
       "search": "going to the park,playground,play area"
+    },
+    {
+      "slug": "using-phone",
+      "title": "Using Phone",
+      "search": "using phone,smart phone,calling"
     }
   ]
 }
