@@ -1,0 +1,8 @@
+File from: [data/cards/icon/animals – 1.png]
+
+File to: [data/cards_opt/icon/animals – 1.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Development\assistivecards-api\node_modules\pngquant-bin\vendor\pngquant.exe --quality=20-50 -o data/cards_opt/icon/animals – 1.png data/cards/icon/animals – 1.png
+  error: cannot open data\cards\icon\animals – 1.png for reading

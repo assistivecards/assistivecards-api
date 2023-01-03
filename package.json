@@ -16,7 +16,8 @@
     "sync:apps": "aws s3 sync data/apps s3://api.assistivecards.com/apps",
     "sync:packs": "aws s3 sync data/packs s3://api.assistivecards.com/packs",
     "sync:activities": "aws s3 sync data/activities s3://api.assistivecards.com/activities",
-    "pull": "aws s3 sync s3://api.assistivecards.com data"
+    "pull": "aws s3 sync s3://api.assistivecards.com data",
+    "optimize": "node scripts/cardoptimizer.js"
   },
   "repository": {
     "type": "git",
@@ -30,7 +31,10 @@
   "homepage": "https://github.com/assistivecards/assistivecards-api#readme",
   "dependencies": {
     "@google-cloud/translate": "^6.1.0",
+    "compress-images": "^2.0.5",
     "emoji-strip": "^1.0.1",
-    "node-fetch": "^2.6.1"
+    "gifsicle": "5.2.1",
+    "node-fetch": "^2.6.1",
+    "pngquant-bin": "6.0.1"
   }
 }
