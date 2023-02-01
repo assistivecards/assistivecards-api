@@ -1,0 +1,102 @@
+{
+  "apps": [
+    {
+      "slug": "memory",
+      "name": "Memory Cards",
+      "tagline": {
+        "en": "Daily Planner for Kids",
+      },
+      "description": {
+        "en": "Daily calendar app that allows kids and their parents to create timelines of activities."
+      },
+      "storeId": {
+        "appStore": 1541521898,
+        "googlePlay": 4974686486131281000
+      }
+    },
+    {
+      "slug": "silhouette",
+      "name": "Silhouette Match",
+      "tagline": {
+        "en": "Daily Planner for Kids",
+      },
+      "description": {
+        "en": "Daily calendar app that allows kids and their parents to create timelines of activities."
+      },
+      "storeId": {
+        "appStore": 1541521898,
+        "googlePlay": 4974686486131281000
+      }
+    },
+    {
+      "slug": "circle",
+      "name": "Circle Objects",
+      "tagline": {
+        "en": "Daily Planner for Kids",
+      },
+      "description": {
+        "en": "Daily calendar app that allows kids and their parents to create timelines of activities."
+      },
+      "storeId": {
+        "appStore": 1541521898,
+        "googlePlay": 4974686486131281000
+      }
+    },
+    {
+      "slug": "card_blast",
+      "name": "Card Blast",
+      "tagline": {
+        "en": "Daily Planner for Kids",
+      },
+      "description": {
+        "en": "Daily calendar app that allows kids and their parents to create timelines of activities."
+      },
+      "storeId": {
+        "appStore": 1541521898,
+        "googlePlay": 4974686486131281000
+      }
+    },
+    {
+      "slug": "split_puzzle",
+      "name": "Split Puzzle",
+      "tagline": {
+        "en": "Daily Planner for Kids",
+      },
+      "description": {
+        "en": "Daily calendar app that allows kids and their parents to create timelines of activities."
+      },
+      "storeId": {
+        "appStore": 1541521898,
+        "googlePlay": 4974686486131281000
+      }
+    },
+    {
+      "slug": "hatch_match",
+      "name": "Hatch & Match",
+      "tagline": {
+        "en": "Daily Planner for Kids",
+      },
+      "description": {
+        "en": "Daily calendar app that allows kids and their parents to create timelines of activities."
+      },
+      "storeId": {
+        "appStore": 1541521898,
+        "googlePlay": 4974686486131281000
+      }
+    },
+    {
+      "slug": "match_pairs",
+      "name": "Match Pairs",
+      "tagline": {
+        "en": "Daily Planner for Kids",
+      },
+      "description": {
+        "en": "Daily calendar app that allows kids and their parents to create timelines of activities."
+      },
+      "storeId": {
+        "appStore": 1541521898,
+        "googlePlay": 4974686486131281000
+      }
+    }
+  ]
+}
