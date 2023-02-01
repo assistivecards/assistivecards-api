@@ -12,7 +12,9 @@
       "storeId": {
         "appStore": 1541521898,
         "googlePlay": 4974686486131281000
-      }
+      },
+      "released": true,
+      "premium": false
     },
     {
       "slug": "silhouette",
@@ -26,7 +28,9 @@
       "storeId": {
         "appStore": 1541521898,
         "googlePlay": 4974686486131281000
-      }
+      },
+      "released": true,
+      "premium": false
     },
     {
       "slug": "circle",
@@ -40,7 +44,9 @@
       "storeId": {
         "appStore": 1541521898,
         "googlePlay": 4974686486131281000
-      }
+      },
+      "released": true,
+      "premium": false
     },
     {
       "slug": "card_blast",
@@ -54,7 +60,9 @@
       "storeId": {
         "appStore": 1541521898,
         "googlePlay": 4974686486131281000
-      }
+      },
+      "released": false,
+      "premium": false
     },
     {
       "slug": "split_puzzle",
@@ -68,7 +76,9 @@
       "storeId": {
         "appStore": 1541521898,
         "googlePlay": 4974686486131281000
-      }
+      },
+      "released": false,
+      "premium": false
     },
     {
       "slug": "hatch_match",
@@ -82,7 +92,9 @@
       "storeId": {
         "appStore": 1541521898,
         "googlePlay": 4974686486131281000
-      }
+      },
+      "released": false,
+      "premium": false
     },
     {
       "slug": "match_pairs",
@@ -96,7 +108,9 @@
       "storeId": {
         "appStore": 1541521898,
         "googlePlay": 4974686486131281000
-      }
+      },
+      "released": false,
+      "premium": false
     }
   ]
 }
