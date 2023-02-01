@@ -226,3 +226,27 @@ Serve icon of an app by using it's slug.
 GET https://api.assistivecards.com/apps/icon/[app_slug]@3x.png
 Hotlink protection: none
 ```
+
+Scales of @2x and @3x available. (don't use @1x for original size)
+
+## Games
+
+Return all the games published by AssistiveCards and metadata about them.
+
+```
+GET https://api.assistivecards.com/games/metadata.json
+Hotlink protection: none
+```
+
+Will return an array of objects that contain metadata about all games.
+
+## Games Icons
+
+Serve icon of a game by using it's slug.
+
+```
+GET https://api.assistivecards.com/games/icon/[game_slug]@2x.png
+Hotlink protection: none
+```
+
+Scales of @0.5x and @2x available. (don't use @1x for original size)
