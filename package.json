@@ -14,6 +14,7 @@
     "activity:mac": "export GOOGLE_APPLICATION_CREDENTIALS=C:/token.json&& node scripts/activitymaker.js",
     "sync:cards": "aws s3 sync data/cards s3://api.assistivecards.com/cards",
     "sync:apps": "aws s3 sync data/apps s3://api.assistivecards.com/apps",
+    "sync:games": "aws s3 sync data/games s3://api.assistivecards.com/games",
     "sync:packs": "aws s3 sync data/packs s3://api.assistivecards.com/packs",
     "sync:activities": "aws s3 sync data/activities s3://api.assistivecards.com/activities",
     "pull": "aws s3 sync s3://api.assistivecards.com data",
