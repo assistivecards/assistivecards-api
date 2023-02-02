@@ -15,6 +15,7 @@
     "sync:games": "aws s3 sync data/games s3://api.assistivecards.com/games",
     "sync:packs": "aws s3 sync data/packs s3://api.assistivecards.com/packs",
     "sync:activities": "aws s3 sync data/activities s3://api.assistivecards.com/activities",
+    "sync:all": "yarn sync:cards && yarn sync:apps && yarn sync:games && yarn sync:packs && yarn sync:activities",
     "pull": "aws s3 sync s3://api.assistivecards.com data",
     "optimize": "node scripts/cardoptimizer.js"
   },
