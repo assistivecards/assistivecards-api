@@ -1,7 +1,0 @@
-File from: [data/raw/**/*.{jpg,JPG,jpeg,JPEG,png,SVG,svg}]
-
-File to: [-]
-
-Compression algorithm: [-]
-
-Description:  Directory is empty!: 
