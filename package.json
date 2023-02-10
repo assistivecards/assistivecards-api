@@ -7,6 +7,7 @@
     "authorize:win": "set GOOGLE_APPLICATION_CREDENTIALS=C:/token.json",
     "authorize:mac": "export GOOGLE_APPLICATION_CREDENTIALS=~/token.json",
     "apps": "node scripts/appmaker.js",
+    "games": "node scripts/gamemaker.js",
     "categories": "node scripts/categorymaker.js",
     "packs": "node scripts/packmaker.js",
     "activities": "node scripts/activitymaker.js",
