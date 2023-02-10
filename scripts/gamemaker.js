@@ -5,7 +5,7 @@ const {Translate} = require('@google-cloud/translate').v2;
 const translate = new Translate();
 
 let languages = require("../data/languages.json").languages;
-let apps = require("../data/games/metadata_template.json").apps;
+let apps = require("../data/games/metadata.json").apps;
 
 let meta = async () => {
   for (var j = 0; j < apps.length; j++) {
