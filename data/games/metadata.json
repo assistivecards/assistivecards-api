@@ -3,17 +3,17 @@
     {
       "slug": "memory",
       "name": {
-        "en": "Memory Cards",
+        "en": "Memory Cards"
       },
       "tagline": {
-        "en": "Memory card match game, test your memory",
+        "en": "Memory card match game, test your memory"
       },
       "description": {
         "en": "Memory Cards is a classic memory card matching game that tests your memory and concentration. The goal is to match the pairs of cards by turning them over two at a time. The player must remember where the cards are located on the board in order to make successful matches. The game ends when all pairs have been matched. Memory Cards is a fun game for all ages and is great for honing your memory skills."
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 1658292272,
+        "googlePlay": 4972835815011568000
       },
       "released": true,
       "premium": false
@@ -21,17 +21,17 @@
     {
       "slug": "silhouette",
       "name": {
-        "en": "Silhouette Match",
+        "en": "Silhouette Match"
       },
       "tagline": {
-        "en": "Match the silhouettes of objects with right one",
+        "en": "Match the silhouettes of objects with right one"
       },
       "description": {
         "en": "Silhouette Match Game is a fun and educational game designed to help kids learn shapes and objects. The game involves matching silhouettes of objects with the right one. The player must look at the silhouette and then guess which object it represents. The game can be played by a single player or multiple players. The rules are simple - the player who guesses the correct object wins the game. Players can also challenge themselves by trying to find the object in the quickest time possible. With a vast collection of objects, the game is sure to provide hours of fun and learning."
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 1663676151,
+        "googlePlay": 4976057622238395000
       },
       "released": true,
       "premium": false
@@ -39,17 +39,17 @@
     {
       "slug": "circle",
       "name": {
-        "en": "Circle Objects",
+        "en": "Circle Objects"
       },
       "tagline": {
-        "en": "Draw a circle around the right object",
+        "en": "Draw a circle around the right object"
       },
       "description": {
         "en": "Circle Objects is a fun and challenging game that tests your visual and spatial skills. The goal of the game is to draw a circle around the right object. You will be presented with a set of objects and your job is to select the one that is the same shape as the circle. As the levels progress, the objects become more complex and the circles will become larger and more difficult to draw around. You will need to use your problem solving skills and think outside the box to complete each level. The game also features a leaderboard so you can challenge your friends and family and see who can get the highest score."
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 1668076300,
+        "googlePlay": 4973646127924725000
       },
       "released": true,
       "premium": false
@@ -57,17 +57,17 @@
     {
       "slug": "card_crash",
       "name": {
-        "en": "Card Crash",
+        "en": "Card Crash"
       },
       "tagline": {
-        "en": "Classic match-3 game with assistive cards",
+        "en": "Classic match-3 game with assistive cards"
       },
       "description": {
         "en": "Card Crash is an exciting and entertaining match-3 game that utilizes cards to help players progress. Players must match three or more cards of the same type to clear them from the board and earn points. With the help of assistive cards, players can gain bonus points and special abilities to help them advance further. Navigate through multiple levels and challenge your friends to beat your score! Card Crash is the perfect game for everyone to enjoy."
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 1669333116,
+        "googlePlay": 4975364843149166000
       },
       "released": false,
       "premium": false
@@ -75,17 +75,17 @@
     {
       "slug": "card_blast",
       "name": {
-        "en": "Card Blast",
+        "en": "Card Blast"
       },
       "tagline": {
-        "en": "Blast the cards similar to each other by tapping",
+        "en": "Blast the cards similar to each other by tapping"
       },
       "description": {
         "en": " A fun and easy-to-play card game. The objective is to match similar cards by tapping on them. You can play against a computer opponent or with a friend. The faster you match the cards, the higher your score will be. With power-ups, you can increase your chances of winning. So, get ready for some card-blasting fun!"
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 0,
+        "googlePlay": 4976045142084697000
       },
       "released": false,
       "premium": false
@@ -93,17 +93,17 @@
     {
       "slug": "split_puzzle",
       "name": {
-        "en": "Split Puzzle",
+        "en": "Split Puzzle"
       },
       "tagline": {
-        "en": "Solve the puzzle split into 4 quarters",
+        "en": "Solve the puzzle split into 4 quarters"
       },
       "description": {
         "en": "Split Puzzle Game is a challenging puzzle game that requires you to split the puzzle into four quarters and then solve it. You will have to use your logic and problem solving skills to figure out the correct order of the pieces. The game is made up of various shaped pieces that must be placed in the correct position in order to complete the puzzle. With over 100 levels to choose from, you can enjoy hours of puzzle solving fun."
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 1670992629,
+        "googlePlay": 4973537912888571000
       },
       "released": false,
       "premium": false
@@ -111,17 +111,17 @@
     {
       "slug": "hatch_match",
       "name": {
-        "en": "Hatch & Match",
+        "en": "Hatch & Match"
       },
       "tagline": {
-        "en": "Hatch the egg and match the right objects",
+        "en": "Hatch the egg and match the right objects"
       },
       "description": {
         "en": "Hatch & Match is an exciting and educational game for kids. The goal of the game is to hatch the egg and match the objects inside the egg with the correct objects shown on the screen. The game features different levels of difficulty and colorful graphics. Kids can learn about different shapes, colors, and sizes as they progress through the levels. The game also helps to develop matching skills, problem-solving skills, and visual-spatial skills."
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 0,
+        "googlePlay": 0
       },
       "released": false,
       "premium": false
@@ -129,17 +129,17 @@
     {
       "slug": "match_pairs",
       "name": {
-        "en": "Match Pairs",
+        "en": "Match Pairs"
       },
       "tagline": {
-        "en": "Match cards split into two to each other",
+        "en": "Match cards split into two to each other"
       },
       "description": {
         "en": "Match Pairs is a turn-based, memory-based game where players work to match two cards that have been split up. Players take turns flipping cards to reveal a half of the image, memorizing the image and then attempting to match that image with the other half. The game ends when all cards have been matched."
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 0,
+        "googlePlay": 0
       },
       "released": false,
       "premium": false
@@ -147,17 +147,17 @@
     {
       "slug": "draw_lines",
       "name": {
-        "en": "Draw Lines",
+        "en": "Draw Lines"
       },
       "tagline": {
-        "en": "Draw continuous lines between right objects",
+        "en": "Draw continuous lines between right objects"
       },
       "description": {
         "en": "Draw Lines is a fun and challenging game where players must draw continuous lines between objects of the same color. The goal is to draw the lines without touching other lines or objects. The game starts off easy but gradually gets harder as the levels progress. Players must use their logic and problem solving skills to figure out the best way to draw the lines between the objects. Players can also choose to play against friends or family in a battle of wits. Draw Lines is fun for all ages and provides hours of entertainment."
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 0,
+        "googlePlay": 0
       },
       "released": false,
       "premium": false
@@ -165,17 +165,17 @@
     {
       "slug": "complete",
       "name": {
-        "en": "Complete The Set",
+        "en": "Complete The Set"
       },
       "tagline": {
-        "en": "Complete the Silhouette set by matching",
+        "en": "Complete the Silhouette set by matching"
       },
       "description": {
         "en": "Complete the set is a silhouette matching game that challenges players to complete a silhouette set by identifying and matching the correct silhouette pieces. Players must look at the silhouette pieces and match them to the correct silhouette set. The goal is to complete the silhouette set as quickly as possible and earn the highest score. Players can select from a variety of silhouette sets to complete."
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 0,
+        "googlePlay": 0
       },
       "released": false,
       "premium": false
@@ -183,17 +183,17 @@
     {
       "slug": "scratcher",
       "name": {
-        "en": "Scratcher",
+        "en": "Scratcher"
       },
       "tagline": {
-        "en": "Scratch a card sticker completely",
+        "en": "Scratch a card sticker completely"
       },
       "description": {
         "en": "Scratcher Game is a fun scratch card game that allows kids to learn motor skills. The game consists of a card with stickers that must be completely scratched off to reveal a hidden picture. Players must use their finger to scratch off the stickers and see what's underneath. The game encourages children to practice fine motor skills while they explore the fun and exciting images that are hidden beneath the stickers. The game provides an entertaining and educational experience that helps children learn while having fun."
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 0,
+        "googlePlay": 0
       },
       "released": false,
       "premium": false
@@ -201,17 +201,17 @@
     {
       "slug": "card_chain",
       "name": {
-        "en": "Card Chain",
+        "en": "Card Chain"
       },
       "tagline": {
-        "en": "Domino style two-ended card matching",
+        "en": "Domino style two-ended card matching"
       },
       "description": {
         "en": "Chain Game is a fun and simple card matching game for two or more players. The goal is to create chains of cards by matching one end of the card to the other. The game consists of a deck of cards featuring various images and symbols. Players take turns flipping over cards and attempting to match the two ends of the card. If a match is made, the player collects the card and adds it to their chain. The player with the longest chain of cards at the end of the game is the winner."
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 0,
+        "googlePlay": 0
       },
       "released": false,
       "premium": false
@@ -219,17 +219,17 @@
     {
       "slug": "piece_puzzle",
       "name": {
-        "en": "Piece Puzzle",
+        "en": "Piece Puzzle"
       },
       "tagline": {
-        "en": "Complete puzzle split into weird shapes",
+        "en": "Complete puzzle split into weird shapes"
       },
       "description": {
         "en": "This puzzle game features a unique twist on the classic jigsaw puzzle. Instead of a regular puzzle pieces, the game presents you with a variety of strange and unusual shapes. The challenge is to use your creativity and problem-solving skills to arrange the pieces into the correct shape. With each level, the pieces become increasingly more complex, testing your skills and keeping you entertained for hours."
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 0,
+        "googlePlay": 0
       },
       "released": false,
       "premium": false
@@ -237,17 +237,17 @@
     {
       "slug": "finger_paint",
       "name": {
-        "en": "Finger Paint",
+        "en": "Finger Paint"
       },
       "tagline": {
-        "en": "Paint objects with fingers",
+        "en": "Paint objects with fingers"
       },
       "description": {
         "en": "Finger Paint Game is a fun and educational game for kids of all ages. The goal of the game is to paint objects with your fingers. Players can use their fingers to draw, color, and paint different objects and scenes on their device's screen. The game also allows players to save their creations and share them with others. With its intuitive and easy-to-use interface, Finger Paint Game is a great way to encourage creativity and imagination in kids."
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 0,
+        "googlePlay": 0
       },
       "released": false,
       "premium": false
@@ -255,17 +255,17 @@
     {
       "slug": "bucket",
       "name": {
-        "en": "Bucket Catch",
+        "en": "Bucket Catch"
       },
       "tagline": {
-        "en": "Catch falling objects in a bucket",
+        "en": "Catch falling objects in a bucket"
       },
       "description": {
         "en": "Bucket Catch is a fast-paced, reflex-based game for all ages. The objective of the game is to catch as many falling objects as possible in a bucket. You must move the bucket left and right to catch objects that are randomly falling from the sky. Different objects have different scores and values, and you must strive to get the highest score possible before the time runs out. As you progress through the game, the objects fall faster and it becomes more difficult to catch them. The game also features power-ups that can help you increase your score. Play solo or compete with your friends to see who can get the highest score!"
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 0,
+        "googlePlay": 0
       },
       "released": false,
       "premium": false
@@ -273,17 +273,17 @@
     {
       "slug": "sling",
       "name": {
-        "en": "Sling Objects",
+        "en": "Sling Objects"
       },
       "tagline": {
-        "en": "Sling objects into boxes with fingers",
+        "en": "Sling objects into boxes with fingers"
       },
       "description": {
         "en": "Sling Objects is a fun and addictive game that allows players to launch objects from their fingertips into boxes of various sizes. The objective of the game is to get as many objects into the boxes as possible. Players can use their fingers to drag and flick the objects in order to launch them into the boxes. The game has multiple levels with increasing difficulty, featuring objects of different sizes and shapes, as well as various obstacles that can hinder or help the player's progress."
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 0,
+        "googlePlay": 0
       },
       "released": false,
       "premium": false
@@ -291,17 +291,17 @@
     {
       "slug": "rope_cut",
       "name": {
-        "en": "Rope Cut",
+        "en": "Rope Cut"
       },
       "tagline": {
-        "en": "Cut the rope for the right object",
+        "en": "Cut the rope for the right object"
       },
       "description": {
         "en": "Rope Cut Game is an exciting and challenging game where you must cut the rope with precision to get the correct object. You must use your agility and precision to cut the rope in the right direction and make sure you don't cut any other objects. The game features multiple levels with increasingly difficult challenges and rewards. The ultimate goal is to collect all the objects and complete the level."
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 0,
+        "googlePlay": 0
       },
       "released": false,
       "premium": false
@@ -309,17 +309,17 @@
     {
       "slug": "count",
       "name": {
-        "en": "Count Objects",
+        "en": "Count Objects"
       },
       "tagline": {
-        "en": "Count the objects and select the right number",
+        "en": "Count the objects and select the right number"
       },
       "description": {
         "en": "Count the Objects Game is an educational game designed to help young children practice counting and number recognition. The game involves counting the number of objects on the screen and then selecting the correct number from a given list of options. The game can be played alone or with a partner, making it a great way for parents and children to bond and learn together. The game also helps to develop hand-eye coordination, problem solving, and logical thinking skills."
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 0,
+        "googlePlay": 0
       },
       "released": false,
       "premium": false
@@ -327,17 +327,17 @@
     {
       "slug": "choose",
       "name": {
-        "en": "Choose Objects",
+        "en": "Choose Objects"
       },
       "tagline": {
-        "en": "Listen and choose the right object",
+        "en": "Listen and choose the right object"
       },
       "description": {
         "en": "Listen and Choose the Right Object is a fun, interactive game for children. Players must listen to a series of audio clips and select the correct corresponding object from a selection of objects. Players earn points for each correct answer they give and the player with the most points at the end of the game wins. The game is designed to help children develop their listening skills, as well as their problem-solving and decision-making abilities."
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 0,
+        "googlePlay": 0
       },
       "released": false,
       "premium": false
@@ -345,17 +345,17 @@
     {
       "slug": "match",
       "name": {
-        "en": "Match Objects",
+        "en": "Match Objects"
       },
       "tagline": {
-        "en": "Drag and drop cards and match the right ones",
+        "en": "Drag and drop cards and match the right ones"
       },
       "description": {
         "en": "Match Objects is an exciting game where you have to drag and drop cards and match the right ones. The game has multiple levels with different objectives. You have to match objects like shapes, colors, numbers and letters in order to progress to the next level. The game will help you improve your concentration, hand-eye coordination and problem solving skills. With a variety of levels and themes, you can enjoy this fun game with your friends and family."
       },
       "storeId": {
-        "appStore": 1541521898,
-        "googlePlay": 4974686486131281000
+        "appStore": 0,
+        "googlePlay": 0
       },
       "released": false,
       "premium": false
