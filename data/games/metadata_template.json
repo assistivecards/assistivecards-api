@@ -45,7 +45,7 @@
         "appStore": 1669333116,
         "googlePlay": 4975364843149166000
       },
-      "released": false,
+      "released": true,
       "premium": false
     },
     {
@@ -54,10 +54,10 @@
       "tagline": "Blast the cards similar to each other by tapping",
       "description": " A fun and easy-to-play card game. The objective is to match similar cards by tapping on them. You can play against a computer opponent or with a friend. The faster you match the cards, the higher your score will be. With power-ups, you can increase your chances of winning. So, get ready for some card-blasting fun!",
       "storeId": {
-        "appStore": 0,
+        "appStore": 1672657261,
         "googlePlay": 4976045142084697000
       },
-      "released": false,
+      "released": true,
       "premium": false
     },
     {
@@ -69,7 +69,7 @@
         "appStore": 1670992629,
         "googlePlay": 4973537912888571000
       },
-      "released": false,
+      "released": true,
       "premium": false
     },
     {
@@ -90,10 +90,10 @@
       "tagline": "Match cards split into two to each other",
       "description": "Match Pairs is a turn-based, memory-based game where players work to match two cards that have been split up. Players take turns flipping cards to reveal a half of the image, memorizing the image and then attempting to match that image with the other half. The game ends when all cards have been matched.",
       "storeId": {
-        "appStore": 0,
-        "googlePlay": 0
+        "appStore": 1672650697,
+        "googlePlay": 4974569181083559672
       },
-      "released": false,
+      "released": true,
       "premium": false
     },
     {
@@ -102,10 +102,10 @@
       "tagline": "Draw continuous lines between right objects",
       "description": "Draw Lines is a fun and challenging game where players must draw continuous lines between objects of the same color. The goal is to draw the lines without touching other lines or objects. The game starts off easy but gradually gets harder as the levels progress. Players must use their logic and problem solving skills to figure out the best way to draw the lines between the objects. Players can also choose to play against friends or family in a battle of wits. Draw Lines is fun for all ages and provides hours of entertainment.",
       "storeId": {
-        "appStore": 0,
-        "googlePlay": 0
+        "appStore": 6445973759,
+        "googlePlay": 4972572325626838534
       },
-      "released": false,
+      "released": true,
       "premium": false
     },
     {
