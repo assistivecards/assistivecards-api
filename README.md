@@ -2,6 +2,24 @@
 
 This is a documentation for the live assistivecards.com's rest API and asset endpoints. (Stored in aws s3, in a static way, served by cloudflare cdn)
 
+## Status
+
+Get the current API status of the endpoint.
+
+```
+GET https://api.assistivecards.com/status.json
+Cross-origin: All
+```
+Expected output;
+```JS
+{
+  "status": true,
+  "hotlink": "none",
+  "version": "1.4.0",
+  "versionCode": 140
+}
+```
+
 ## Packs
 Get a list of all the available packs and their attributions.
 
