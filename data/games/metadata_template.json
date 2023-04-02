@@ -239,6 +239,78 @@
       },
       "released": false,
       "premium": false
+    },
+    {
+      "slug": "drag_inside",
+      "name": "Drag Inside",
+      "tagline": "Drag and drop right cards into the area",
+      "description": "Drag Inside is a fun, interactive game for children that encourages problem solving and spatial reasoning. The goal of the game is to drag and drop the right cards into the designated area. As the game progresses, more cards and more complicated shapes and patterns will appear, making it even more challenging. This game will help children practice their fine motor skills as well as their logic and reasoning skills.",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false
+    },
+    {
+      "slug": "press_cards",
+      "name": "Press Cards",
+      "tagline": "Count and press on the cards the right amount of time",
+      "description": "Press Cards is an easy and fun counting game for kids. In the game, kids will be presented with a series of cards, each with a different number. The goal is to press each card the correct number of times, as indicated by the number on the card. The faster and more accurate the kids are, the higher their score will be. Kids can challenge themselves as they learn to count and practice their motor skills.",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false
+    },
+    {
+      "slug": "draw_shapes",
+      "name": "Draw Shapes",
+      "tagline": "Draw Shapes is an educational and fun game for kids to learn about shapes and the objects. Player is given an object, which they need to trace and draw the right shape around the object. The game will provide different shapes, from basic shapes like squares and circles to complex shapes like pentagons and hexagons. Players will be able to learn the names of the shapes and their properties as they progress through the game.",
+      "description": "",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false
+    },
+    {
+      "slug": "sort_cards",
+      "name": "Sort Cards",
+      "tagline": "Sort the cards with the given right order",
+      "description": "Sort Cards is a fun and educational game for kids. The objective of the game is to sort a set of cards with different objects in the right order. The players have to arrange the cards in the right sequence and fill in the missing cards to complete the set. The game is designed to help kids develop their cognitive and problem-solving skills as they have to think and arrange the cards in the right order.",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false
+    },
+    {
+      "slug": "card_fishing",
+      "name": "Card Fishing",
+      "tagline": "Fish the right card from water with your rod",
+      "description": "Card Fishing is a fun and exciting game for kids of all ages. Player is given the name of the card which needs to be fished. They have to use the rod and fish the right card from the water. The player needs to be careful while fishing as they can end up fishing the wrong card. The player with the most correct cards at the end of the game wins. ",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false
+    },
+    {
+      "slug": "stack_cards",
+      "name": "Stack Cards",
+      "tagline": "Stack the right cards on top of each other",
+      "description": "Stack Cards is a fun game for kids of all ages. The goal is to stack the right cards on top of each other by drag and drop. Players must be careful not to stack the wrong cards as this will cause the stack to collapse. With colorful graphics and easy to understand rules, Stack Cards is a great way to keep kids entertained while helping them develop their problem-solving skills.",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false
     }
   ]
 }
