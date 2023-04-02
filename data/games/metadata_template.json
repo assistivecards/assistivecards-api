@@ -267,8 +267,8 @@
     {
       "slug": "draw_shapes",
       "name": "Draw Shapes",
-      "tagline": "Draw Shapes is an educational and fun game for kids to learn about shapes and the objects. Player is given an object, which they need to trace and draw the right shape around the object. The game will provide different shapes, from basic shapes like squares and circles to complex shapes like pentagons and hexagons. Players will be able to learn the names of the shapes and their properties as they progress through the game.",
-      "description": "",
+      "tagline": "Draw geometric shapes around right objects",
+      "description": "Draw Shapes is an educational and fun game for kids to learn about shapes and the objects. Player is given an object, which they need to trace and draw the right shape around the object. The game will provide different shapes, from basic shapes like squares and circles to complex shapes like pentagons and hexagons. Players will be able to learn the names of the shapes and their properties as they progress through the game.",
       "storeId": {
         "appStore": 0,
         "googlePlay": 0
