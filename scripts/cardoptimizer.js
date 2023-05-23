@@ -1,7 +1,7 @@
 const compress_images = require("compress-images");
 
 let INPUT_path_to_your_images = "data/raw/**/*.{jpg,JPG,jpeg,JPEG,png,SVG,svg}";
-let OUTPUT_path = "data/cards/";
+let OUTPUT_path = "data/games/";
 
 compress_images(INPUT_path_to_your_images, OUTPUT_path, { compress_force: true, statistic: true, autoupdate: true }, false,
                 { jpg: { engine: "mozjpeg", command: ["-quality", "60"] } },
