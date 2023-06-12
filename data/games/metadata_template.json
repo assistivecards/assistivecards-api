@@ -10,7 +10,8 @@
         "googlePlay": 4972835815011568000
       },
       "released": true,
-      "premium": false
+      "premium": false,
+      "color": "#96ED96"
     },
     {
       "slug": "silhouette",
@@ -22,7 +23,8 @@
         "googlePlay": 4976057622238395000
       },
       "released": true,
-      "premium": false
+      "premium": false,
+      "color": "#70BFF7"
     },
     {
       "slug": "circle",
@@ -34,7 +36,8 @@
         "googlePlay": 4973646127924725000
       },
       "released": true,
-      "premium": false
+      "premium": false,
+      "color": "#BC8AF7"
     },
     {
       "slug": "card_crash",
@@ -46,7 +49,8 @@
         "googlePlay": 4975364843149166000
       },
       "released": true,
-      "premium": false
+      "premium": false,
+      "color": "#F86BB2"
     },
     {
       "slug": "card_blast",
@@ -58,7 +62,8 @@
         "googlePlay": 4976045142084697000
       },
       "released": true,
-      "premium": false
+      "premium": false,
+      "color": "#FCFC67"
     },
     {
       "slug": "split_puzzle",
@@ -70,7 +75,8 @@
         "googlePlay": 4973537912888571000
       },
       "released": true,
-      "premium": false
+      "premium": false,
+      "color": "#81FAFF"
     },
     {
       "slug": "hatch_match",
@@ -82,7 +88,8 @@
         "googlePlay": 0
       },
       "released": false,
-      "premium": false
+      "premium": false,
+      "color": "#FFC581"
     },
     {
       "slug": "match_pairs",
@@ -94,7 +101,8 @@
         "googlePlay": 4974569181083559672
       },
       "released": true,
-      "premium": false
+      "premium": false,
+      "color": "#FF8181"
     },
     {
       "slug": "draw_lines",
@@ -106,7 +114,8 @@
         "googlePlay": 4972572325626838534
       },
       "released": true,
-      "premium": false
+      "premium": false,
+      "color": "#81FFD3"
     },
     {
       "slug": "complete",
@@ -118,7 +127,8 @@
         "googlePlay": 0
       },
       "released": false,
-      "premium": false
+      "premium": false,
+      "color": "#F3E494"
     },
     {
       "slug": "scratcher",
@@ -130,7 +140,8 @@
         "googlePlay": 4972138181786939762
       },
       "released": false,
-      "premium": false
+      "premium": false,
+      "color": "#94F3A6"
     },
     {
       "slug": "card_chain",
@@ -142,7 +153,8 @@
         "googlePlay": 0
       },
       "released": false,
-      "premium": false
+      "premium": false,
+      "color": "#FF81F5"
     },
     {
       "slug": "piece_puzzle",
@@ -154,7 +166,8 @@
         "googlePlay": 0
       },
       "released": false,
-      "premium": false
+      "premium": false,
+      "color": "#FDDE75"
     },
     {
       "slug": "finger_paint",
@@ -166,7 +179,8 @@
         "googlePlay": 0
       },
       "released": false,
-      "premium": false
+      "premium": false,
+      "color": "#9B94F3"
     },
     {
       "slug": "bucket",
@@ -178,7 +192,8 @@
         "googlePlay": 0
       },
       "released": false,
-      "premium": false
+      "premium": false,
+      "color": "#F394D9"
     },
     {
       "slug": "sling",
@@ -190,7 +205,8 @@
         "googlePlay": 0
       },
       "released": false,
-      "premium": false
+      "premium": false,
+      "color": "#94F3F3"
     },
     {
       "slug": "rope_cut",
@@ -202,7 +218,8 @@
         "googlePlay": 0
       },
       "released": false,
-      "premium": false
+      "premium": false,
+      "color": "#F39494"
     },
     {
       "slug": "count",
@@ -214,7 +231,8 @@
         "googlePlay": 0
       },
       "released": false,
-      "premium": false
+      "premium": false,
+      "color": "000000"
     },
     {
       "slug": "choose",
@@ -226,7 +244,8 @@
         "googlePlay": 0
       },
       "released": false,
-      "premium": false
+      "premium": false,
+      "color": "000000"
     },
     {
       "slug": "match",
@@ -238,7 +257,8 @@
         "googlePlay": 0
       },
       "released": false,
-      "premium": false
+      "premium": false,
+      "color": "000000"
     },
     {
       "slug": "drag_inside",
@@ -250,7 +270,8 @@
         "googlePlay": 0
       },
       "released": false,
-      "premium": false
+      "premium": false,
+      "color": "000000"
     },
     {
       "slug": "press_cards",
@@ -262,7 +283,8 @@
         "googlePlay": 0
       },
       "released": false,
-      "premium": false
+      "premium": false,
+      "color": "000000"
     },
     {
       "slug": "draw_shapes",
@@ -274,7 +296,8 @@
         "googlePlay": 0
       },
       "released": false,
-      "premium": false
+      "premium": false,
+      "color": "000000"
     },
     {
       "slug": "sort_cards",
@@ -286,7 +309,8 @@
         "googlePlay": 0
       },
       "released": false,
-      "premium": false
+      "premium": false,
+      "color": "000000"
     },
     {
       "slug": "card_fishing",
@@ -298,7 +322,8 @@
         "googlePlay": 0
       },
       "released": false,
-      "premium": false
+      "premium": false,
+      "color": "000000"
     },
     {
       "slug": "stack_cards",
@@ -310,7 +335,8 @@
         "googlePlay": 0
       },
       "released": false,
-      "premium": false
+      "premium": false,
+      "color": "000000"
     }
   ]
 }
