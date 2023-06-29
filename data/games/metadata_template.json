@@ -232,7 +232,7 @@
       },
       "released": false,
       "premium": false,
-      "color": "000000"
+      "color": "#9FFD75"
     },
     {
       "slug": "choose",
@@ -245,7 +245,7 @@
       },
       "released": false,
       "premium": false,
-      "color": "000000"
+      "color": "#71C8FF"
     },
     {
       "slug": "match",
@@ -258,7 +258,7 @@
       },
       "released": false,
       "premium": false,
-      "color": "000000"
+      "color": "#C0FF81"
     },
     {
       "slug": "drag_inside",
@@ -271,7 +271,7 @@
       },
       "released": false,
       "premium": false,
-      "color": "000000"
+      "color": "#A3B8F2"
     },
     {
       "slug": "press_cards",
@@ -284,7 +284,7 @@
       },
       "released": false,
       "premium": false,
-      "color": "000000"
+      "color": "#EA87CC"
     },
     {
       "slug": "draw_shapes",
@@ -297,7 +297,7 @@
       },
       "released": false,
       "premium": false,
-      "color": "000000"
+      "color": "#94F3CB"
     },
     {
       "slug": "sort_cards",
@@ -310,7 +310,7 @@
       },
       "released": false,
       "premium": false,
-      "color": "000000"
+      "color": "#94D9F3"
     },
     {
       "slug": "card_fishing",
@@ -323,7 +323,7 @@
       },
       "released": false,
       "premium": false,
-      "color": "000000"
+      "color": "#91FCF0"
     },
     {
       "slug": "stack_cards",
@@ -336,7 +336,72 @@
       },
       "released": false,
       "premium": false,
-      "color": "000000"
+      "color": "#91F0FC"
+    },
+    {
+      "slug": "size_puzzle",
+      "name": "Size Puzzle",
+      "tagline": "Choose the right size of card",
+      "description": "Size Puzzle is an interactive game for kids. Players match the size of cards with their images. It helps children to recognize sizes, teaching them to differentiate between small, medium, and large. Kids can practice their matching skills while also making the game more challenging for older players. Size Puzzle is full of fun and educational activities, making it an excellent pick for spending quality time with your children.",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#CDF394"
+    },
+    {
+      "slug": "find_cards",
+      "name": "Find Cards",
+      "tagline": "Memorize the cards when they are open",
+      "description": "Find Cards is an addictive game for kids that is great for developing memory and concentration. It’s easy to play - all you need to do is remember the images or symbols shown on the cards when they are open. Once all the cards are closed, a new set is generated and you must try to remember the cards from the previous set! Test your skills by competing with your friends and challenge yourself by increasing the number of cards!",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#F3CA94"
+    },
+    {
+      "slug": "card_ninja",
+      "name": "Card Ninja",
+      "tagline": "Cut the right objects by swiping on them",
+      "description": "Card Ninja is a fun and exciting game for kids to develop their hand-eye coordination. Your mission is to cut the right objects by swiping on them. This fast-paced game adds an element of challenging fun as you slice through different levels, while avoiding wrong cards.",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#BCDAFC"
+    },
+    {
+      "slug": "card_whack",
+      "name": "Card Whack",
+      "tagline": "Whack the right card by tapping on it",
+      "description": "Card Whack is an exciting and fun game for kids of all ages! It's an interactive and fast-paced game where you try to whack the right card from the set of cards on your screen. Just tap on the right card, and you will get points! Each level is filled with fun and challenging tasks to keep you entertained for hours. With simple and intuitive controls, anyone can play Card Whack and the kids will have a blast! ",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#C5AAF5"
+    },
+    {
+      "slug": "card_shoot",
+      "name": "Card Shoot",
+      "tagline": "Shoot the right cards with your ball",
+      "description": "Card Shoot is a fun and exciting game for kids! With easy-to-learn controls, play as a kid shooting a ball to match the right cards! Flip, spin, and hit the cards with the ball to get them all in a line. Collect coins and power-ups for extra points and challenge yourself with more difficult levels! So, take aim, and show off your skill with Card Shoot!",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#75B4FD"
     }
   ]
 }
