@@ -402,6 +402,136 @@
       "released": false,
       "premium": false,
       "color": "#75B4FD"
+    },
+    {
+      "slug": "alphabet_order",
+      "name": "Alphabet Order",
+      "tagline": "Order cards by Alphabetical order",
+      "description": "Alphabetical Order is an educational game for young kids that teaches them to organize words and numbers in alphabetical order. It is entertaining and helps develop essential organizational skills. With this game, kids will get to enjoy the challenge and joy of ordering sets of cards while having fun! With easy to use controls, children can explore the beautiful artwork and learn the basics of alphabetical order.",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#FD75C7"
+    },
+    {
+      "slug": "alphabet_choose",
+      "name": "Alphabet Choose",
+      "tagline": "Choose the object that starts with given letter",
+      "description": "Alphabet Choose is a fun and educational game for kids! With this app, your children can learn the alphabet while having fun. To play, each round starts with a letter, and the goal is to tap on the object that starts with the given letter. This game helps kids strengthen their letter recognition and fine motor skills. Compete with your family and friends to become the Alphabetic champion!",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#FD75C7"
+    },
+    {
+      "slug": "alphabet_choose",
+      "name": "Alphabet Choose",
+      "tagline": "Choose the object that starts with given letter",
+      "description": "Alphabet Choose is a fun and educational game for kids! With this app, your children can learn the alphabet while having fun. To play, each round starts with a letter, and the goal is to tap on the object that starts with the given letter. This game helps kids strengthen their letter recognition and fine motor skills. Compete with your family and friends to become the Alphabetic champion!",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#C6A3EF"
+    },
+    {
+      "slug": "card_rumble",
+      "name": "Card Rumble",
+      "tagline": "Pick the right card from moving cards",
+      "description": "Card Rumble is a fun and exciting game for kids that tests their memory and reflexes. Players have to quickly pick out the right card from a rapidly moving stream of cards. Compete with your friends to see who can pick the most cards in the shortest amount of time.",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#75FDB9"
+    },
+    {
+      "slug": "card_balance",
+      "name": "Card Balance",
+      "tagline": "Balance the cards on top of each other in order",
+      "description": "Card Balance is an exciting game for kids! Your goal is to stack the cards given to you atop each other in increasing order without toppling the tower. Test your balance and stacking skills with this game and see how far you can go. With colorful visuals and animations, children will have a blast playing this game. ",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#F8FD75"
+    },
+    {
+      "slug": "throw_cards",
+      "name": "Throw Cards",
+      "tagline": "Throw right objects to pop them",
+      "description": "Throw Cards is the perfect game for kids to have a good time while exercising their coordination and quick reflexes. Throw Cards features fun and colourful characters that the player can use to throw various objects into the screen in order to pop them out. This game is suitable for kids of all ages and helps kids build their hand-eye coordination. Join the fun and become the ultimate master of Throw Cards!",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#A0EEF1"
+    },
+    {
+      "slug": "card_goal",
+      "name": "Card Goal",
+      "tagline": "Throw the right object into goal post",
+      "description": "Card Goal is a fun and kids can pick up and play in minutes. The goal of the game is to throw the right object into the goal post. Players can choose from a variety of fun levels with increasing difficulty to challenge themselves and keep the game engaging. ",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#A0F1AE"
+    },
+    {
+      "slug": "pattern_train",
+      "name": "Pattern Train",
+      "tagline": "Follow the pattern of the cards and choose right one",
+      "description": "Pattern Train helps kids learn and improve their skills in recognizing patterns and making choices. The goal is to select the card with the correct pattern and answer the associated question. ",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#F1A0A0"
+    },
+    {
+      "slug": "snake_cards",
+      "name": "Snake Cards",
+      "tagline": "Eat cards with classic snake game",
+      "description": "The classic snake game meets cards! In Snake Cards, kids will navigate a field of randomly-generated playing cards as they collect items and avoid obstacles. Guide your snake and enjoy the challenge of collecting the most points in the shortest amount of time.",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#A0E3F1"
+    },
+    {
+      "slug": "letter_find",
+      "name": "Letter Find",
+      "tagline": "Find the card with hangman style game",
+      "description": "Letter Find is an educational game for kids that teaches them the English alphabet in a fun and interactive way! The game uses the classic hangman style of guessing a letter to slowly reveal a hidden hidden image. The game is suitable for children of all ages and encourages learning through fun!",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#F9E2A3"
     }
   ]
 }
