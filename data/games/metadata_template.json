@@ -427,19 +427,6 @@
       },
       "released": false,
       "premium": false,
-      "color": "#FD75C7"
-    },
-    {
-      "slug": "alphabet_choose",
-      "name": "Alphabet Choose",
-      "tagline": "Choose the object that starts with given letter",
-      "description": "Alphabet Choose is a fun and educational game for kids! With this app, your children can learn the alphabet while having fun. To play, each round starts with a letter, and the goal is to tap on the object that starts with the given letter. This game helps kids strengthen their letter recognition and fine motor skills. Compete with your family and friends to become the Alphabetic champion!",
-      "storeId": {
-        "appStore": 0,
-        "googlePlay": 0
-      },
-      "released": false,
-      "premium": false,
       "color": "#C6A3EF"
     },
     {
