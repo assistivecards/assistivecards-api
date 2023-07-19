@@ -430,6 +430,19 @@
       "color": "#C6A3EF"
     },
     {
+      "slug": "first_letter",
+      "name": "First Letter",
+      "tagline": "Choose the letter that given objects starts with",
+      "description": "First Letter is an educational game for kids. The objective of the game is for the player to guess the first letter of a given object. This can help kids learn the alphabet and broaden their knowledge of objects. The game gives players visual clues to help them guess the correct letter. If the player guesses correctly, they get points.",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#A3EFDD"
+    },
+    {
       "slug": "card_rumble",
       "name": "Card Rumble",
       "tagline": "Pick the right card from moving cards",
