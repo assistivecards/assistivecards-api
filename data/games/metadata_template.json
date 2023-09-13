@@ -532,6 +532,97 @@
       "released": false,
       "premium": false,
       "color": "#F9E2A3"
+    },
+    {
+      "slug": "needle_thread",
+      "name": "Needle & Thread",
+      "tagline": "Thread the right cards using your string",
+      "description": "Needle & Thread is a fun, interactive game for kids. The objective is to use the string provided to thread through the matching cards. Players must use their dexterity and coordination to carefully thread the string without touching any of the other cards. As the levels progress, the challenge increases with new obstacles.",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#A0F1A3"
+    },
+    {
+      "slug": "card_maze",
+      "name": "Card Maze",
+      "tagline": "Try to get your card out of maze",
+      "description": "Card Maze is a challenging game for kids where they must use their logic and problem solving skills to complete a maze. Players are given a card and must move it through the maze and try to get it to the finish line, while avoiding obstacles along the way. As the difficulty increases, more challenging mazes will appear which will test the players’ skills even more.",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#D8F1A0"
+    },
+    {
+      "slug": "swap_cards",
+      "name": "Swap Cards",
+      "tagline": "Swap the right cards to make the groups same",
+      "description": "Swap Cards is a logic and problem-solving game for kids that helps kids develop their visual and spatial skills. The game features a set of cards that need to be arranged correctly by swapping adjacent cards. Players must use their logic and color recognition skills to create groups of matching cards.",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#A0F1D2"
+    },
+    {
+      "slug": "word_hunt",
+      "name": "Word Hunt",
+      "tagline": "Find the given word in the crossword puzzle",
+      "description": "Word Hunt is an educational game for both kids and adults. Players will be presented with a crossword puzzle and then given a word to find in the puzzle. Players must find the right answer and place the word in the correct position in the puzzle.",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#D8F1A0"
+    },
+    {
+      "slug": "follow_path",
+      "name": "Follow Path",
+      "tagline": "Follow the right path to find the same card",
+      "description": "Follow Path is a fun and challenging game for kids. In the game, kids must select a card and then trace the right path to find the same card. The paths become increasingly more complex as the levels progress, requiring players to use their problem solving skills.",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#EDEBAA"
+    },
+    {
+      "slug": "spell_cards",
+      "name": "Spell Cards",
+      "tagline": "Arrange the letters in the right order to spell the card",
+      "description": "Spell Cards is an educational game for kids designed to help them learn spelling. Players are given card that contains letters and they must rearrange the letters in the right order to spell the card. The game keeps track of each player's progress and makes it easy to compare scores to see who is doing the best.",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#A0DBF1"
+    },
+    {
+      "slug": "grid_find",
+      "name": "Grid Find",
+      "tagline": "Find the right card in the card grid",
+      "description": "Grid Find is an exciting game for kids that challenges them to find the right card in a grid of cards. Players must use their problem solving skills to study the grid and pick out the right card. With colorful graphics and easy to use controls, kids of all ages can enjoy playing this game.",
+      "storeId": {
+        "appStore": 0,
+        "googlePlay": 0
+      },
+      "released": false,
+      "premium": false,
+      "color": "#F3C094"
     }
   ]
 }
